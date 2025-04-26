@@ -1,0 +1,6 @@
+{
+    "name": "kuba/composer-lock",
+    "description": "The purpose of this library is to demonstrate that composer.lock has no effect on the project it is installed in",
+    "license": "MIT",
+    "type": "library"
+}
